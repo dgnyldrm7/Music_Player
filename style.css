@@ -1,0 +1,21 @@
+.kutu{
+    position: relative;
+    margin: auto;
+    margin-top: 8%;
+    width: 280px;
+    height: 450px;
+    background-color: rgb(246, 241, 241);
+    border-radius: 15px;
+}
+
+.photoKutu{
+    position:relative;
+    z-index: +1;
+    background-color: rgb(225, 225, 227);
+    width: 250px;
+    height: 200px;
+    left: 15px;
+    top: -25px;
+    border-radius: 15px;
+}
+
