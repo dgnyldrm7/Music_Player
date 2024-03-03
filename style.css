@@ -19,3 +19,36 @@
     border-radius: 15px;
 }
 
+.audioControl{
+    width: 280px;
+}
+
+.rangee{
+    width: 250px;
+    left: 25px;
+}
+
+.fa {
+    display: flex;
+    justify-content:end;
+    background-color: rgb(25, 150, 222);
+    border-radius: 30px;
+    padding: 20px;
+    color: aliceblue;
+    margin: 10px;
+}
+
+.fa:hover{
+    cursor: pointer;
+}
+
+.playButonu{
+    display: flex;
+    justify-content: center;
+}
+
+.songName{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
