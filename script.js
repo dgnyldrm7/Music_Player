@@ -3,12 +3,11 @@
 const play = document.querySelector(".fa-play");
 play.addEventListener("click",Clicked);
 
+
+//audio controller seçildi
 const audioControl = document.querySelector(".audioControl");
 
-console.log(audioControl)
-//console.log(audioControl.play())
-//audioControl.stop
-audioControl.play;
+
 
 let isActive = true;
 function Clicked(){
